@@ -1,2 +1,6 @@
-# Ti_ta_nic
-Assigment 1 for SDS24
+# Assigment 1 
+
+Here you can find instructions and data for the first assigment. 
+
+
+
