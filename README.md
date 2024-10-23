@@ -1,4 +1,4 @@
-# Assigment 1 
+# Assignment 1 
 
 Here you can find instructions and data for the first assignment. 
 
